@@ -1,4 +1,4 @@
-public class countingoccurences {
+public class Q4countingoccurences {
     // this question counts the occurences of any digit
     public static void main(String[] args) {
         int n = 455555678;

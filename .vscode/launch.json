@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q6calculator",
+            "request": "launch",
+            "mainClass": "Q6calculator",
+            "projectName": "java_896a7f30"
+        },
+        {
+            "type": "java",
+            "name": "Q5reverseofnumbers",
+            "request": "launch",
+            "mainClass": "Q5reverseofnumbers",
+            "projectName": "java_896a7f30"
+        },
+        {
+            "type": "java",
             "name": "countingoccurences",
             "request": "launch",
             "mainClass": "countingoccurences",
