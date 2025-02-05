@@ -20,7 +20,7 @@ public class Q6calculator {
                     System.out.println(" the addition is " + (num1 + num2));
                 }
                 if (op == '-') {
-                    System.out.println("the substraction is" + num1 - num2);
+                    System.out.println("the substraction is" + (num1 - num2));
                 }
                 if (op == '*') {
                     System.out.println(num1 * num2);

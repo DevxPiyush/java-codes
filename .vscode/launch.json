@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "weekends",
+            "request": "launch",
+            "mainClass": "weekends",
+            "projectName": "java_896a7f30"
+        },
+        {
+            "type": "java",
+            "name": "weekday",
+            "request": "launch",
+            "mainClass": "weekday",
+            "projectName": "java_896a7f30"
+        },
+        {
+            "type": "java",
+            "name": "usingswitch",
+            "request": "launch",
+            "mainClass": "usingswitch",
+            "projectName": "java_896a7f30"
+        },
+        {
+            "type": "java",
             "name": "Q6calculator",
             "request": "launch",
             "mainClass": "Q6calculator",
