@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nestedswitchcase",
+            "request": "launch",
+            "mainClass": "nestedswitchcase",
+            "projectName": "java_896a7f30"
+        },
+        {
+            "type": "java",
             "name": "weekends",
             "request": "launch",
             "mainClass": "weekends",
